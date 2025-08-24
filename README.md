@@ -19,7 +19,14 @@ Table 1: Materials used in modified BioMe microplate
 
 ## B. Assembly and Quality Control
 
-The microplate was assembled according to the protocol established by Jo *et al.* [1], placing a silicone gasket between the polycarbonate base and the first body segment, as well as between each subsequent segment, to form a liquid-tight seal. A procedural modification was implemented to ensure sterility and seal integrity: all screws and joints were kept intentionally loose before the entire apparatus was autoclaved using a gravity cycle (20-minute exposure, 20-minute dry time). Following sterilization, the plate was transferred to a disinfected biosafety cabinet where all joints were fully tightened to create the final, sterile seal. A final quality control check was performed on the assembled plate by adding 250 µL of sterile growth media to each well. The plate was incubated for 1 hour at room temperature and then a micropipette was used to measure any loss of volume.
+The microplate was assembled according to the protocol established by Jo et al. [1], placing a silicone gasket between the polycarbonate base and the first body segment, as well as between each subsequent segment, to form a liquid-tight seal. A procedural modification was implemented to ensure sterility and seal integrity: all screws and joints were kept intentionally loose before the entire apparatus was autoclaved using a gravity cycle (20-minute exposure, 20-minute dry time). Following sterilization, the plate was transferred to a disinfected biosafety cabinet where all joints were fully tightened to create the final, sterile seal. A final quality control check was performed on the assembled plate by adding 250 µL of sterile growth media to each well. The plate was incubated for 1 hour at room temperature and then a micropipette was used to measure any loss of volume.
+
+<p align="center"><img src="https://github.com/pavia27/co-culture-device/blob/main/fig1.png" width=80% height=80%></p>
+Modified BioMe microplate. The modified BioMe microplate from Jo et al. [1], is depicted in
+the top image and represents a fully assembled unit. Each well is partitioned from its
+counterpart by a 0.2µm pore-sized filter, that is securely positioned by a precision-cut
+silicone sheet. The semi-permeable barrier, as indicated by the red arrow, is designed to
+permit the passage of metabolites while preventing the translocation of microbes.
 
 ## C. Calibration and Validation
 
